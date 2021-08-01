@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "graphql": "^15.5.1",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "mongoose": "^5.13.5"
   }
 }
